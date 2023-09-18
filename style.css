@@ -1,0 +1,23 @@
+h1 {
+    color: blue;
+    background-color: brown;
+}
+
+table, td, th {
+    border: 2px dotted black;
+    border-collapse: collapse;
+    border-spacing: 2px;
+}
+
+th {
+    border: 2px dotted black;
+    background-color: aquamarine;
+}
+.name {
+    border: 2px solid blueviolet;
+}
+
+#aleko {
+    color: black;
+    background-color: blue;
+}
